@@ -3,4 +3,6 @@ dist
 .tmp
 app/bower_components
 
+app/styles/*.css
+
 .idea
